@@ -4,7 +4,7 @@ Some scripts to export eGroupware contacts and calendar data so it can be import
 
 These scripts let you export data from an eGroupware database:
 
-* calendar data gets exported to an ICS file
+* calendar data gets exported into ICS files
 * contacts get exported into CSV files
 
 All files are ready to get imported into Outlook (and thereby Zarafa) using the Outlook standard import tool.
